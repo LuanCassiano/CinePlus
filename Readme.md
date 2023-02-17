@@ -16,9 +16,9 @@ first run the command
     yarn
 ```
 
-to install the dependencies.
+to install the all dependencies.
 
-Then run
+After installing dependencies, we need to install the pod
 
 ```
     cd ios && pod install
