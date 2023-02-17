@@ -18,7 +18,7 @@ first run the command
 
 to install the dependencies.
 
-After run
+Then run
 
 ```
     cd ios && pod install
