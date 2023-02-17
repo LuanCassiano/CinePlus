@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.compactFolders": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.alwaysShowStatus": true,
+    "terminal.integrated.gpuAcceleration": "off",
+    "window.zoomLevel": 1,
+    "bracketPairColorizer.depreciation-notice": false
+}
+  
