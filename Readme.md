@@ -1,3 +1,3 @@
 ## CinePlus
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNhNGEyN2YyYzk3ZWJkMzFjNzcyNzQ0NWRmMTY2ZWIyMTdkMDJmNSZjdD1n/j8HuGwRftuT7wx7ASM/giphy.gif)
+![](https://firebasestorage.googleapis.com/v0/b/personal-7d86c.appspot.com/o/298104716_8455740544451551_6184031227292601224_n.jpeg?alt=media&token=afab1cee-e4a4-4675-93f7-35c6eef72fa5)
